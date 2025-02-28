@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <category term="neovim" label="r/neovim"/>
+  <updated>2025-01-12T08:19:28+00:00</updated>
+  <icon>https://www.redditstatic.com/icon.png/</icon>
+  <id>/r/neovim/top/.rss</id>
+  <link rel="self" href="https://www.reddit.com/r/neovim/top/.rss" type="application/atom+xml"/>
+  <link rel="alternate" href="https://www.reddit.com/r/neovim/top/" type="text/html"/>
+  <logo>https://e.thumbs.redditmedia.com/otY8HWIxZlvk-q_v.png</logo>
+  <subtitle>Neovim is a hyperextensible Vim-based text editor. Learn more at neovim.io.</subtitle>
+  <title>top scoring links : neovim</title>
+  <entry>
+    <author>
+      <name>/u/jackplus-xyz</name>
+      <uri>https://www.reddit.com/user/jackplus-xyz</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hyradp/monaspacenvim_mix_and_match_monaspace_fonts_in/"&gt; &lt;img src="https://b.thumbs.redditmedia.com/73wzF559R04XQJD_fqKcPVXRrceXlDdVFU-UmftCotA.jpg" alt="monaspace.nvim: Mix and Match Monaspace Fonts in Neovim" title="monaspace.nvim: Mix and Match Monaspace Fonts in Neovim" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/jackplus-xyz"&gt; /u/jackplus-xyz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1hyradp"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyradp/monaspacenvim_mix_and_match_monaspace_fonts_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hyradp</id>
+    <media:thumbnail url="https://b.thumbs.redditmedia.com/73wzF559R04XQJD_fqKcPVXRrceXlDdVFU-UmftCotA.jpg"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hyradp/monaspacenvim_mix_and_match_monaspace_fonts_in/"/>
+    <updated>2025-01-11T08:06:01+00:00</updated>
+    <published>2025-01-11T08:06:01+00:00</published>
+    <title>monaspace.nvim: Mix and Match Monaspace Fonts in Neovim</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/neoneo451</name>
+      <uri>https://www.reddit.com/user/neoneo451</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hys2g0/proposal_lets_use_rssatom_for_plugin_news/"&gt; &lt;img src="https://external-preview.redd.it/yEhLTMozT6fBtLctMNrOI2h1ARPruzGqFrHF9qd_UiE.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=69e47b588b0dd68329c412a3ac94e18989c3b830" alt="[Proposal] let's use rss(atom) for plugin news!" title="[Proposal] let's use rss(atom) for plugin news!" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Working on &lt;a href="https://github.com/neo451/feed.nvim"&gt;https://github.com/neo451/feed.nvim&lt;/a&gt; for the past five months was a blast, but it weirdly just clicked in my mind to add support for subscribing to github repos. The solution is really nice and low-cost that I want to share it with the community.&lt;/p&gt; &lt;h1&gt;Issue&lt;/h1&gt; &lt;ol&gt; &lt;li&gt;Plugin authors are to lazy to put stuff like a news.txt like neovim itself in the help doc.&lt;/li&gt; &lt;li&gt;Users without plugin manager like lazy.nvim don&amp;#39;t get news of what they are about to get or what they just got with commands like &lt;code&gt;Rocks update&lt;/code&gt;&lt;/li&gt; &lt;/ol&gt; &lt;h1&gt;Solution&lt;/h1&gt; &lt;p&gt;Github actually offers a quite nice support for atom feed.&lt;/p&gt; &lt;p&gt;Simply append &lt;code&gt;.atom&lt;/code&gt; to the releases or commits page and you will get a well formatted xml file to be consumed by any feed reader. For example to subscribe to my feed reader plugin, the link is &lt;a href="https://github.com/neo451/feed.nvim/releases.atom"&gt;https://github.com/neo451/feed.nvim/releases.atom&lt;/a&gt;&lt;/p&gt; &lt;p&gt;this is what it looks like in my neovim:&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/o73q7jguubce1.png?width=1908&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9d713ae5c75b86cb50c09d6eb4573041f3255cc1"&gt;https://preview.redd.it/o73q7jguubce1.png?width=1908&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=9d713ae5c75b86cb50c09d6eb4573041f3255cc1&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/jg0r3ejwubce1.png?width=955&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0198f8f86b0ce6c0c4ee3886e617462afc3c12a0"&gt;https://preview.redd.it/jg0r3ejwubce1.png?width=955&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0198f8f86b0ce6c0c4ee3886e617462afc3c12a0&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;For Plugin Authors&lt;/h1&gt; &lt;p&gt;You can do two things:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Just put a badge at the top of your repo pointing to the feed to your releases or commits&lt;/li&gt; &lt;li&gt;(Optional) Follow the style that &lt;a href="https://github.com/ColinKennedy/nvim-best-practices-plugin-template"&gt;ColinKennedy/nvim-best-practices-plugin-template&lt;/a&gt; suggests. maintain a doc/news.txt file, which can also be subscribed with a .atom suffix.&lt;/li&gt; &lt;/ol&gt; &lt;h1&gt;For Plugin Users&lt;/h1&gt; &lt;p&gt;Just simply use the format describe above to subscribe to your favorite plugin or any other repo you want news from in your favorite feed reader.&lt;/p&gt; &lt;h1&gt;For feed.nvim Users&lt;/h1&gt; &lt;p&gt;I just added a shorthand to write subscription, so you can simply write short urls like in most plugin managers to subscribe.&lt;/p&gt; &lt;pre&gt;&lt;code&gt;require&amp;quot;feed&amp;quot;.setup{ feeds = { &amp;quot;neo451/feed.nvim/releases&amp;quot;, &amp;quot;folke/snacks.nvim&amp;quot;, -- defaults to subscribing to commits } } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;and as feed.nvim matures, users will be able to do things a like checking updates at startup or warning of breaking changes.&lt;/p&gt; &lt;h1&gt;Other Sources to subscribe to&lt;/h1&gt; &lt;p&gt;Neovim Official News: &lt;a href="https://neovim.io/news.xml"&gt;https://neovim.io/news.xml&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Dotfyle&amp;#39;s This Week in Neovim: &lt;a href="https://dotfyle.com/this-week-in-neovim/rss.xml"&gt;https://dotfyle.com/this-week-in-neovim/rss.xml&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/neoneo451"&gt; /u/neoneo451 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hys2g0/proposal_lets_use_rssatom_for_plugin_news/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hys2g0/proposal_lets_use_rssatom_for_plugin_news/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hys2g0</id>
+    <media:thumbnail url="https://external-preview.redd.it/yEhLTMozT6fBtLctMNrOI2h1ARPruzGqFrHF9qd_UiE.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=69e47b588b0dd68329c412a3ac94e18989c3b830"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hys2g0/proposal_lets_use_rssatom_for_plugin_news/"/>
+    <updated>2025-01-11T09:05:13+00:00</updated>
+    <published>2025-01-11T09:05:13+00:00</published>
+    <title>[Proposal] let's use rss(atom) for plugin news!</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/KidPudel</name>
+      <uri>https://www.reddit.com/user/KidPudel</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hywccz/a_jonathan_blow_inspired_colorscheme/"&gt; &lt;img src="https://external-preview.redd.it/4KTyzX-B9C7B8NSQjvCxtbBgqSQUDayhM8VoTpk0br0.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2f53951ef2b70f558301279f8fc56808adfaf92f" alt="A Jonathan Blow inspired colorscheme" title="A Jonathan Blow inspired colorscheme" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;An excellent &lt;a href="https://github.com/RRethy/base16-nvim"&gt;plugin&lt;/a&gt; by &lt;a href="https://github.com/RRethy"&gt;RRethy&lt;/a&gt; for building a sync base16 colorscheme allowed me to create a minimalistic, non-distracting colorscheme (named &amp;quot;green-knight&amp;quot;), inspired by Jonathan Blow&amp;#39;s custom theme and 2000s rock bands.&lt;/p&gt; &lt;p&gt;here is the full config:&lt;/p&gt; &lt;pre&gt;&lt;code&gt; return { { &amp;quot;https://github.com/RRethy/base16-nvim&amp;quot;, config = function() local bg = &amp;quot;#0F1919&amp;quot; local accent = &amp;quot;#102121&amp;quot; local accent2 = &amp;quot;#0D2525&amp;quot; -- highlight local text = &amp;quot;#abb2bf&amp;quot; local dark_text = &amp;quot;#3E4451&amp;quot; -- comments, line numbers local keyword = &amp;quot;#8F939A&amp;quot; local func = &amp;quot;#B6AB8B&amp;quot; local types = &amp;quot;#65838E&amp;quot; local constant = &amp;quot;#A06057&amp;quot; local for_tesing = &amp;quot;#FF0000&amp;quot; require(&amp;quot;base16-colorscheme&amp;quot;).setup({ base00 = bg, base01 = accent, base02 = accent2, base03 = dark_text, base04 = dark_text, base05 = text, base06 = for_tesing, base07 = for_tesing, base08 = text, base09 = constant, base0A = types, base0B = constant, base0C = text, base0D = func, base0E = keyword, base0F = text, }) -- vim.cmd(&amp;quot;colorscheme base16&amp;quot;) end, }, } &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/otp8cm8ffdce1.png?width=1230&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3bdaf7e256888bb937f75eabc1beb454af9b93b6"&gt;in figma&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/b8ojy4mgfdce1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=8e2940fedbb1a362cf0d67db80a5f0f893e422a2"&gt;in editor&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/KidPudel"&gt; /u/KidPudel &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hywccz/a_jonathan_blow_inspired_colorscheme/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hywccz/a_jonathan_blow_inspired_colorscheme/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hywccz</id>
+    <media:thumbnail url="https://external-preview.redd.it/4KTyzX-B9C7B8NSQjvCxtbBgqSQUDayhM8VoTpk0br0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f53951ef2b70f558301279f8fc56808adfaf92f"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hywccz/a_jonathan_blow_inspired_colorscheme/"/>
+    <updated>2025-01-11T13:54:19+00:00</updated>
+    <published>2025-01-11T13:54:19+00:00</published>
+    <title>A Jonathan Blow inspired colorscheme</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/_wurli</name>
+      <uri>https://www.reddit.com/user/_wurli</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hz8d6o/visimatchnvim_a_tiny_plugin_to_highlight_matches/"&gt; &lt;img src="https://preview.redd.it/qeo8qihc3gce1.gif?width=640&amp;amp;crop=smart&amp;amp;s=380a8cdd1944b2840f905faf412145cc8b664240" alt="visimatch.nvim: a tiny plugin to highlight matches for the current visual selection" title="visimatch.nvim: a tiny plugin to highlight matches for the current visual selection" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/_wurli"&gt; /u/_wurli &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qeo8qihc3gce1.gif"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz8d6o/visimatchnvim_a_tiny_plugin_to_highlight_matches/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hz8d6o</id>
+    <media:thumbnail url="https://preview.redd.it/qeo8qihc3gce1.gif?width=640&amp;crop=smart&amp;s=380a8cdd1944b2840f905faf412145cc8b664240"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz8d6o/visimatchnvim_a_tiny_plugin_to_highlight_matches/"/>
+    <updated>2025-01-11T22:58:49+00:00</updated>
+    <published>2025-01-11T22:58:49+00:00</published>
+    <title>visimatch.nvim: a tiny plugin to highlight matches for the current visual selection</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ciccab</name>
+      <uri>https://www.reddit.com/user/ciccab</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hz95vr/write_a_blogdocumentation_in_neorg/"&gt; &lt;img src="https://external-preview.redd.it/nKcV73LUyHnYKg40FYAGqbhZjAQW3LzslY4WYc-32ZI.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1870c3ca47cdd27d47f836365880902dcf74b847" alt="Write a blog/documentation in Neorg!!" title="Write a blog/documentation in Neorg!!" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;This last week I have been working on a static site generator based on Neorg, that is, you can write your publications/documentations in Neorg and it compiles to HTML, I added a few extra things to allow for styling such as centering items/text, changing background color, I added support for images/videos, etc... Look at the result of how it&amp;#39;s turning out, the plan is to do it like Jekyll but with Neorg! If anyone wants to contribute/test, this is the repository link: &lt;a href="https://github.com/BrunoCiccarino/norgkyll"&gt;norgkyll&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/fee5od7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=80d24b5fdd575c8f0bc00a723c9761565fcfae49"&gt;https://preview.redd.it/fee5od7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=80d24b5fdd575c8f0bc00a723c9761565fcfae49&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/y6wryc7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=fd0d21b5ec3857f2212a3144d2e9f53b39a4bdee"&gt;https://preview.redd.it/y6wryc7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=fd0d21b5ec3857f2212a3144d2e9f53b39a4bdee&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/eq2zad7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=287b6dd3725e3d7ef93e9fde2b85e2b52cf47c44"&gt;https://preview.redd.it/eq2zad7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=287b6dd3725e3d7ef93e9fde2b85e2b52cf47c44&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/1yrted7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=a234596de9f8db41394bfbff150a05b9201f51b3"&gt;https://preview.redd.it/1yrted7u9gce1.jpg?width=1280&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=a234596de9f8db41394bfbff150a05b9201f51b3&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ciccab"&gt; /u/ciccab &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz95vr/write_a_blogdocumentation_in_neorg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz95vr/write_a_blogdocumentation_in_neorg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hz95vr</id>
+    <media:thumbnail url="https://external-preview.redd.it/nKcV73LUyHnYKg40FYAGqbhZjAQW3LzslY4WYc-32ZI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1870c3ca47cdd27d47f836365880902dcf74b847"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz95vr/write_a_blogdocumentation_in_neorg/"/>
+    <updated>2025-01-11T23:36:06+00:00</updated>
+    <published>2025-01-11T23:36:06+00:00</published>
+    <title>Write a blog/documentation in Neorg!!</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/catphish_</name>
+      <uri>https://www.reddit.com/user/catphish_</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;What&amp;#39;s the current state of Neorg vs orgmode.nvim? I started messing around with emacs org mode but even with doom emacs and evil mode it felt like too much that&amp;#39;s too different. The task of learning enough emacs to remap everything so it will feel familiar seems like too much of a time sink. And also my motivation is half to learn/implement some sort of org mode, and half to continue to improve my vim motion skills with my current config.&lt;/p&gt; &lt;p&gt;Neorg has been around for a while now, but I see people talking about missing out on other integrations with regular Org mode. But I don&amp;#39;t really understand what those integrations are.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/catphish_"&gt; /u/catphish_ &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hzc3hg/current_state_of_neorg_vs_orgmodenvim/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hzc3hg/current_state_of_neorg_vs_orgmodenvim/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hzc3hg</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hzc3hg/current_state_of_neorg_vs_orgmodenvim/"/>
+    <updated>2025-01-12T02:00:51+00:00</updated>
+    <published>2025-01-12T02:00:51+00:00</published>
+    <title>Current state of Neorg vs Orgmode.nvim?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Emotional-Zebra5359</name>
+      <uri>https://www.reddit.com/user/Emotional-Zebra5359</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I just want a to use a few NvChad themes, and I can do it with the Nvchad/ui plugin, but the problem is it breaks everything else, the fzf-lua search theme remains unchanged, and can&amp;#39;t change the neotree theme as well. Is there no way to import a specific NvChad theme and then use it.... :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Emotional-Zebra5359"&gt; /u/Emotional-Zebra5359 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz30rs/can_we_not_use_nvchad_themes_in_our_distros/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz30rs/can_we_not_use_nvchad_themes_in_our_distros/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hz30rs</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz30rs/can_we_not_use_nvchad_themes_in_our_distros/"/>
+    <updated>2025-01-11T18:59:41+00:00</updated>
+    <published>2025-01-11T18:59:41+00:00</published>
+    <title>Can we not use NvChad themes in our distros, without converting the whole UI to NvChad?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/bones-wang</name>
+      <uri>https://www.reddit.com/user/bones-wang</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Recently, I&amp;#39;ve been confused about adding or removing semicolons in Rust coding. So, I created a key remapping inspired by &lt;a href="https://www.reddit.com/r/neovim/comments/1d45jiz/awesome_remap_adding_semicolon_at_eol_my_everyday/"&gt;Awesome Remap: Adding Semicolon at EOL! My Everyday Go-To in Neovim!&lt;/a&gt; .&lt;/p&gt; &lt;p&gt;```lua local map = LazyVim.safe_keymap_set&lt;/p&gt; &lt;p&gt;-- Toggle &amp;#39;;&amp;#39; in current line map(&amp;quot;n&amp;quot;, &amp;quot;&amp;lt;leader&amp;gt;;&amp;quot;, function() local cursor = vim.api.nvim_win_get_cursor(0) local line = vim.api.nvim_get_current_line() local last_char = string.sub(line, -1, -1) if last_char == &amp;quot;;&amp;quot; then vim.cmd(&amp;quot;s/;$//&amp;quot;) vim.cmd(&amp;quot;:nohlsearch&amp;quot;) else vim.cmd(&amp;quot;norm A;&amp;quot;) end vim.api.nvim_win_set_cursor(0, cursor) end, { desc = &amp;quot;Toggle semicolon in current line&amp;quot; }) ```&lt;/p&gt; &lt;p&gt;What do you think about this? Let me know your opinions.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/bones-wang"&gt; /u/bones-wang &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hytg82/toggle_semicolon_at_eol/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hytg82/toggle_semicolon_at_eol/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hytg82</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hytg82/toggle_semicolon_at_eol/"/>
+    <updated>2025-01-11T10:48:58+00:00</updated>
+    <published>2025-01-11T10:48:58+00:00</published>
+    <title>Toggle semicolon at EOL</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/SpecificFly5486</name>
+      <uri>https://www.reddit.com/user/SpecificFly5486</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;This is especially useful for go.&lt;/p&gt; &lt;p&gt;&lt;code&gt;lua vim.api.nvim_create_autocmd(&amp;quot;BufWritePre&amp;quot;, { pattern = &amp;quot;*.go&amp;quot;, callback = function() local params = vim.lsp.util.make_range_params() params.context = { only = { &amp;quot;source.organizeImports&amp;quot; } } local result = vim.lsp.buf_request_sync(0, &amp;quot;textDocument/codeAction&amp;quot;, params, 1000) for _, res in pairs(result or {}) do for _, action in pairs(res.result or {}) do if action.edit then vim.lsp.util.apply_workspace_edit(action.edit, &amp;quot;utf-8&amp;quot;) end end end end, }) &lt;/code&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/SpecificFly5486"&gt; /u/SpecificFly5486 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz13m6/gopls_remove_unused_import_when_save/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz13m6/gopls_remove_unused_import_when_save/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hz13m6</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz13m6/gopls_remove_unused_import_when_save/"/>
+    <updated>2025-01-11T17:35:54+00:00</updated>
+    <published>2025-01-11T17:35:54+00:00</published>
+    <title>gopls: remove unused import when save</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/large_turtle</name>
+      <uri>https://www.reddit.com/user/large_turtle</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I&amp;#39;ve found &lt;code&gt;:h&lt;/code&gt; to be lacking recently as it only allows me to search the Neovim manual using the tags (ex: &lt;code&gt;formatting&lt;/code&gt;, &lt;code&gt;&amp;#39;formatexpr&amp;#39;&lt;/code&gt;, etc.) that are attached to its entries. Instead, I&amp;#39;d like to search the manual for every occurrence of my search term (eg, everywhere that mentions &amp;quot;formatexpr&amp;quot;). I know you could do this with the online manual on &lt;a href="http://neovim.io"&gt;&lt;code&gt;neovim.io&lt;/code&gt;&lt;/a&gt; but I find that the website is quite slow.&lt;/p&gt; &lt;p&gt;I&amp;#39;ve created the following keymap (which uses Telescope) to accomplish the feature I&amp;#39;m looking for:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;vim.keymap.set(&amp;quot;n&amp;quot;, &amp;quot;&amp;lt;A-h&amp;gt;&amp;quot;, function() require(&amp;quot;telescope.builtin&amp;quot;).live_grep( { cwd = vim.fs.joinpath(vim.env.VIMRUNTIME, &amp;quot;doc&amp;quot;) } ) end) &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Explanation:&lt;/p&gt; &lt;p&gt;&lt;code&gt;$VIMRUNTIME&lt;/code&gt; contains the directory where you Neovim&amp;#39;s support files are stored (eg, &lt;code&gt;/usr/local/share/nvim/runtime&lt;/code&gt; on my machine). In it, the &lt;code&gt;doc&lt;/code&gt; directory will contain the Neovim manual files which are grep-able :)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/large_turtle"&gt; /u/large_turtle &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz9us5/search_neovim_documentation_with_telescope/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz9us5/search_neovim_documentation_with_telescope/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hz9us5</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz9us5/search_neovim_documentation_with_telescope/"/>
+    <updated>2025-01-12T00:09:05+00:00</updated>
+    <published>2025-01-12T00:09:05+00:00</published>
+    <title>Search Neovim documentation with telescope</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Morphyas</name>
+      <uri>https://www.reddit.com/user/Morphyas</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Is there a way to replace all of LazyVim default icons? i want to use nvim-webdev-icons but it&amp;#39;s not working I followed the docs and changed the opts.ui.icons.ft for example and didn&amp;#39;t work&lt;br/&gt; it doesn&amp;#39;t have all the icons for the files and I really REALLY hate the README file icon&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Morphyas"&gt; /u/Morphyas &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz7l85/lazyvim_icons/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz7l85/lazyvim_icons/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hz7l85</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz7l85/lazyvim_icons/"/>
+    <updated>2025-01-11T22:23:29+00:00</updated>
+    <published>2025-01-11T22:23:29+00:00</published>
+    <title>LazyVim Icons</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/majamin</name>
+      <uri>https://www.reddit.com/user/majamin</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hey all:&lt;/p&gt; &lt;p&gt;After trying to mess around with writing a plugin, I&amp;#39;m having a difficult time understanding the structure lazy.nvim is expecting. In general it would be good to know how other package managers expect the structure to look, as well.&lt;/p&gt; &lt;p&gt;Requirements:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;A plugin that prints &amp;quot;Hello there!&amp;quot; when entering neovim (the default message).&lt;/li&gt; &lt;li&gt;Optionally, we can define a custom message via opts.&lt;/li&gt; &lt;li&gt;A minimal plugin located in &lt;code&gt;~/.config/nvim/lua/myplugin&lt;/code&gt;&lt;/li&gt; &lt;li&gt;In &lt;code&gt;~/.config/nvim/init.lua&lt;/code&gt; we call the plugin using lazy.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;code&gt; require(&amp;quot;lazy&amp;quot;).setup({ spec = { { dir = &amp;quot;lua/myplugin&amp;quot;, opts = { message = &amp;quot;Hi, there!&amp;quot; }, }, } }) &lt;/code&gt;&lt;/p&gt; &lt;p&gt;With this setup, when a user enters nvim, they see the message &amp;quot;Hi, there!&amp;quot;. I haven&amp;#39;t been able to figure out how to structure the plugin itself. I&amp;#39;ve tried a variety of ways, inspecting other smaller plugins (like &lt;code&gt;mini.statusline&lt;/code&gt;) to try to emulate the structure, but unable to get it going. I&amp;#39;d like to be able to just develop locally, but then when I&amp;#39;m ready, to be able to host the plugin on github when I&amp;#39;m ready.&lt;/p&gt; &lt;p&gt;Thanks for any help you can provide, a snippet of code, or a gist to get me going.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/majamin"&gt; /u/majamin &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz3xb2/minimal_working_plugin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz3xb2/minimal_working_plugin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hz3xb2</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz3xb2/minimal_working_plugin/"/>
+    <updated>2025-01-11T19:39:28+00:00</updated>
+    <published>2025-01-11T19:39:28+00:00</published>
+    <title>Minimal working plugin?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/GiGaBIT_username</name>
+      <uri>https://www.reddit.com/user/GiGaBIT_username</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;i tried asking gpt it&amp;#39;s telling me to use the vim.cmd(&amp;#39;edit &amp;#39; .. filename)&lt;/p&gt; &lt;p&gt;this requires me to focus on the window and then focus back on the window that i was focused on previously&lt;/p&gt; &lt;p&gt;basically&lt;br/&gt; remember which window i am focused on local win = nvim get current buf&lt;br/&gt; focus on new window using nvim set current buf&lt;br/&gt; then vim.cmd(edit filename)&lt;br/&gt; then focus back on the older window nvim set current buf(win)&lt;/p&gt; &lt;p&gt;now this sounds frustrating as hell&lt;/p&gt; &lt;p&gt;is there no other way i thought api should provide with a way to open a buffer with a particular file path&lt;/p&gt; &lt;p&gt;i tried searching but don&amp;#39;t know what to search for tbh&lt;br/&gt; i think i don&amp;#39;t know if the words that i&amp;#39;m using are correct or wrong so google doesn&amp;#39;t give me good reddit posts&lt;br/&gt; also i&amp;#39;m very new (tbh one day into plugin development) and i do not have much idea about nvim api :( sorry for that &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/GiGaBIT_username"&gt; /u/GiGaBIT_username &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz2hoq/how_do_i_make_a_buffer_which_opens_a_certain_file/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz2hoq/how_do_i_make_a_buffer_which_opens_a_certain_file/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hz2hoq</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz2hoq/how_do_i_make_a_buffer_which_opens_a_certain_file/"/>
+    <updated>2025-01-11T18:36:08+00:00</updated>
+    <published>2025-01-11T18:36:08+00:00</published>
+    <title>How do i make a buffer which opens a certain file?</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/cyber_gaz</name>
+      <uri>https://www.reddit.com/user/cyber_gaz</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hythkg/how_to_get_the_hover_borders_back/"&gt; &lt;img src="https://external-preview.redd.it/3iUN6ClAWPLfj8ofwoAOWr2PgssIubQibD2YHi_QCNg.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d7126caa281506f13cfad1187ecc2dc8341e50ed" alt="how to get the hover borders back" title="how to get the hover borders back" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/te8v5vy9hcce1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0f0c40a7374479085da5c33f3c07a69e4a91adda"&gt;https://preview.redd.it/te8v5vy9hcce1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0f0c40a7374479085da5c33f3c07a69e4a91adda&lt;/a&gt;&lt;/p&gt; &lt;p&gt;i switched to blink.cmp , now hover borders are gone. they were fine until nvim-cmp , but i believe it&amp;#39;s nothing to do with completion plugins. can somebody help !&lt;/p&gt; &lt;p&gt;edit: i tried &lt;a href="https://github.com/neovim/nvim-lspconfig/wiki/UI-Customization#borders"&gt;lspconfig ui wiki&lt;/a&gt; , but it shows borders for some types not for all.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/cyber_gaz"&gt; /u/cyber_gaz &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hythkg/how_to_get_the_hover_borders_back/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hythkg/how_to_get_the_hover_borders_back/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hythkg</id>
+    <media:thumbnail url="https://external-preview.redd.it/3iUN6ClAWPLfj8ofwoAOWr2PgssIubQibD2YHi_QCNg.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7126caa281506f13cfad1187ecc2dc8341e50ed"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hythkg/how_to_get_the_hover_borders_back/"/>
+    <updated>2025-01-11T10:51:54+00:00</updated>
+    <published>2025-01-11T10:51:54+00:00</published>
+    <title>how to get the hover borders back</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/ProfileDesperate</name>
+      <uri>https://www.reddit.com/user/ProfileDesperate</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hzce9w/lualine_tabline_config/"&gt; &lt;img src="https://preview.redd.it/8dag26dr2hce1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=04e4326aba474e1007258399dd70c9e7a7cf90b9" alt="Lualine tabline config" title="Lualine tabline config" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I’m currently using lualine.nvim for my statusline and tabline, however I saw this very cool looking tabline in heirline.nvim with the chrome-shaped tabs and the close button. I’ve been trying to mimic this visual using lualine but unsuccessful (mostly the “separator” config, I don’t even know how to make the close button yet). &lt;/p&gt; &lt;p&gt;Does anyone know how to make tabline look like this in lualine?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/ProfileDesperate"&gt; /u/ProfileDesperate &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8dag26dr2hce1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hzce9w/lualine_tabline_config/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hzce9w</id>
+    <media:thumbnail url="https://preview.redd.it/8dag26dr2hce1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04e4326aba474e1007258399dd70c9e7a7cf90b9"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hzce9w/lualine_tabline_config/"/>
+    <updated>2025-01-12T02:16:54+00:00</updated>
+    <published>2025-01-12T02:16:54+00:00</published>
+    <title>Lualine tabline config</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/patricus</name>
+      <uri>https://www.reddit.com/user/patricus</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;All I want is rounded borders for hover &amp;#39;K&amp;#39; and signatureHelp &amp;#39;C-k&amp;#39; what am I doing wrong?&lt;/p&gt; &lt;pre&gt;&lt;code&gt;vim.lsp.handlers[&amp;quot;textDocument/hover&amp;quot;] = function(_, result, _) vim.lsp.util.open_floating_preview(result.contents, &amp;quot;markdown&amp;quot;, { border = &amp;quot;rounded&amp;quot; }) end vim.lsp.handlers[&amp;quot;textDocument/signatureHelp&amp;quot;] = function(_, result, _) vim.lsp.util.open_floating_preview(result.contents, &amp;quot;plaintext&amp;quot;, { border = &amp;quot;rounded&amp;quot; }) end &lt;/code&gt;&lt;/pre&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/patricus"&gt; /u/patricus &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyzp2a/lsp_doc_border/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyzp2a/lsp_doc_border/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hyzp2a</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hyzp2a/lsp_doc_border/"/>
+    <updated>2025-01-11T16:34:30+00:00</updated>
+    <published>2025-01-11T16:34:30+00:00</published>
+    <title>LSP doc border</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Commercial-Club-4909</name>
+      <uri>https://www.reddit.com/user/Commercial-Club-4909</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;is their any ast-grep search using fzf-lua like telescope-sg ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Commercial-Club-4909"&gt; /u/Commercial-Club-4909 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyy02q/astgrep_with_fzflua/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyy02q/astgrep_with_fzflua/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hyy02q</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hyy02q/astgrep_with_fzflua/"/>
+    <updated>2025-01-11T15:16:37+00:00</updated>
+    <published>2025-01-11T15:16:37+00:00</published>
+    <title>Ast-grep with fzf-lua</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Main-Humor-6933</name>
+      <uri>https://www.reddit.com/user/Main-Humor-6933</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Main-Humor-6933"&gt; /u/Main-Humor-6933 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://youtube.com/shorts/VSaB-6CIjmM"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyswiq/navigate_vim_like_a_pro_master_vim_buffers/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hyswiq</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hyswiq/navigate_vim_like_a_pro_master_vim_buffers/"/>
+    <updated>2025-01-11T10:07:22+00:00</updated>
+    <published>2025-01-11T10:07:22+00:00</published>
+    <title>Navigate Vim Like a Pro: Master Vim Buffers</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/aliaref_dev</name>
+      <uri>https://www.reddit.com/user/aliaref_dev</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hzhmy0/indents_are_not_showing_correct/"&gt; &lt;img src="https://b.thumbs.redditmedia.com/HRNqYT_dk_TRemgAQU-7-hBMHzueY-S7_Xy0Bi3D0NQ.jpg" alt="Indents are not showing correct" title="Indents are not showing correct" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;First of all I search about my issue, and update my configs accordingly but I had no luck so far.&lt;/p&gt; &lt;p&gt;The issue is that the file looks as it has correct indents in neovim BUT, It hasn&amp;#39;t correct indents.&lt;/p&gt; &lt;p&gt;Here is how it&amp;#39;s shown in neovim in the left other editors (Kate) in the right&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/nsmeovldnice1.png?width=1138&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=589b52d59a7b2cc188aeae50a91d996202af15e8"&gt;The right one is show correct&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Here is my config options for tabs&lt;/p&gt; &lt;pre&gt;&lt;code&gt;vim.o.tabstop = 2 -- Set tab spacing to 2 spaces vim.o.shiftwidth = 2 -- Set the number of spaces used for each level of indentation vim.o.softtabstop = 2 -- Set the number of spaces to insert when the Tab key is pressed vim.o.expandtab = true -- Use spaces instead of tabs &lt;/code&gt;&lt;/pre&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/aliaref_dev"&gt; /u/aliaref_dev &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hzhmy0/indents_are_not_showing_correct/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hzhmy0/indents_are_not_showing_correct/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hzhmy0</id>
+    <media:thumbnail url="https://b.thumbs.redditmedia.com/HRNqYT_dk_TRemgAQU-7-hBMHzueY-S7_Xy0Bi3D0NQ.jpg"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hzhmy0/indents_are_not_showing_correct/"/>
+    <updated>2025-01-12T07:37:01+00:00</updated>
+    <published>2025-01-12T07:37:01+00:00</published>
+    <title>Indents are not showing correct</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/Teich007</name>
+      <uri>https://www.reddit.com/user/Teich007</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi, &lt;/p&gt; &lt;p&gt;I really like Lazyvim, but I can&amp;#39;t find out how to disable blink for files that really don&amp;#39;t need it, specifically .inp files. &lt;/p&gt; &lt;p&gt;So far, I&amp;#39;ve set up a file in ftdetect that correctly detects the filetype. I can&amp;#39;t get disabling it to work. I&amp;#39;ve got a file in my lua/plugins where I&amp;#39;ve tried &lt;/p&gt; &lt;p&gt;{&lt;/p&gt; &lt;p&gt;&amp;quot;Saghen/blink.cmp&amp;quot;,&lt;/p&gt; &lt;p&gt;ft = { &amp;quot;inp&amp;quot; },&lt;/p&gt; &lt;p&gt;enabled = false,&lt;/p&gt; &lt;p&gt;},&lt;/p&gt; &lt;p&gt;this just permanently disables blink and &lt;/p&gt; &lt;p&gt;{ &amp;quot;Saghen/blink.cmp&amp;quot;, &lt;/p&gt; &lt;p&gt;ft = { &amp;quot;inp&amp;quot; },&lt;/p&gt; &lt;p&gt;cond = function() &lt;/p&gt; &lt;p&gt;return vim.bo.filetype ~= &amp;quot;inp&amp;quot; &lt;/p&gt; &lt;p&gt;end,&lt;/p&gt; &lt;p&gt;} this does nothing&lt;/p&gt; &lt;p&gt;I honestly have no clue what I&amp;#39;m doing. Could anyone maybe help me? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/Teich007"&gt; /u/Teich007 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz43t8/help_disabling_blink_for_certain_file_types_in/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hz43t8/help_disabling_blink_for_certain_file_types_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hz43t8</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hz43t8/help_disabling_blink_for_certain_file_types_in/"/>
+    <updated>2025-01-11T19:47:35+00:00</updated>
+    <published>2025-01-11T19:47:35+00:00</published>
+    <title>Help disabling blink for certain file types in Lazy.</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/pookdeveloper</name>
+      <uri>https://www.reddit.com/user/pookdeveloper</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://www.reddit.com/r/neovim/comments/1hytr7f/disable_empty_space_when_scroll_with_mouse/"&gt; &lt;img src="https://b.thumbs.redditmedia.com/-zkjPmrfso5B8Zdllr4PPaJd6i_c7PVRd0vNq7uX8_E.jpg" alt="disable empty space when scroll with mouse" title="disable empty space when scroll with mouse" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I want to prevent that&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/3sd2wuf4lcce1.png?width=2047&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7aae71fcaa488464e68633d4b075f5b853889895"&gt;https://preview.redd.it/3sd2wuf4lcce1.png?width=2047&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7aae71fcaa488464e68633d4b075f5b853889895&lt;/a&gt;&lt;/p&gt; &lt;p&gt;with shortcut G works fine :&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/seitnx48lcce1.png?width=2047&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0ef5fbfe8e952fda90c8d38d3d83946495556095"&gt;https://preview.redd.it/seitnx48lcce1.png?width=2047&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0ef5fbfe8e952fda90c8d38d3d83946495556095&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/pookdeveloper"&gt; /u/pookdeveloper &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hytr7f/disable_empty_space_when_scroll_with_mouse/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hytr7f/disable_empty_space_when_scroll_with_mouse/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <id>t3_1hytr7f</id>
+    <media:thumbnail url="https://b.thumbs.redditmedia.com/-zkjPmrfso5B8Zdllr4PPaJd6i_c7PVRd0vNq7uX8_E.jpg"/>
+    <link href="https://www.reddit.com/r/neovim/comments/1hytr7f/disable_empty_space_when_scroll_with_mouse/"/>
+    <updated>2025-01-11T11:11:47+00:00</updated>
+    <published>2025-01-11T11:11:47+00:00</published>
+    <title>disable empty space when scroll with mouse</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/evergreengt</name>
+      <uri>https://www.reddit.com/user/evergreengt</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I would like to better understand how &lt;code&gt;nvim-lspconfig&lt;/code&gt; loads in terms of attached events to filetypes, as I am noticing, especially with latest commits, that it got slower and slower. &lt;/p&gt; &lt;p&gt;I am loading &lt;code&gt;nvim-lspconfig&lt;/code&gt; on &lt;code&gt;BufReadPost&lt;/code&gt; events, that is &amp;quot;when starting to edit a new buffer, after reading the file into the buffer&amp;quot;. At that point, I presume, the lsp attaches to the buffer, which triggers the plugin to load. However, I would expect the plugin to exclusively load for those filetypes where a lsp exists and an attach event is defined, instead I notice that the plugin loads (on &lt;code&gt;BufReadPost&lt;/code&gt;) on all filetypes, independent of whether or not they attach an lsp. As a consequence I have that also for &amp;quot;quick edits&amp;quot; on text files (or filetypes that need no lsp, configs, no extensions or such) I have to wait for plugin loading time, which is often around 100ms.&lt;/p&gt; &lt;p&gt;To summarise: is it possible to force &lt;code&gt;nvim-lspconfig&lt;/code&gt; to exclusively load, as plugin, when the buffer contains filetypes that attach an lsp, rather then loading on all filetypes (even the ones that don&amp;#39;t attach any)? I would expect such mechanism to be built-in, but apparently it isn&amp;#39;t, or am I wrong?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/evergreengt"&gt; /u/evergreengt &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyt9d5/on_loading_nvimlspconfig_exclusively_on_filetypes/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hyt9d5/on_loading_nvimlspconfig_exclusively_on_filetypes/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hyt9d5</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hyt9d5/on_loading_nvimlspconfig_exclusively_on_filetypes/"/>
+    <updated>2025-01-11T10:34:22+00:00</updated>
+    <published>2025-01-11T10:34:22+00:00</published>
+    <title>on loading nvim-lspconfig exclusively on filetypes that attach lsp</title>
+  </entry>
+  <entry>
+    <author>
+      <name>/u/phantasmic-wizard</name>
+      <uri>https://www.reddit.com/user/phantasmic-wizard</uri>
+    </author>
+    <category term="neovim" label="r/neovim"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://www.reddit.com/user/phantasmic-wizard"&gt; /u/phantasmic-wizard &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hzfsb3/why_did_you_choose_neovim_as_your_text_editor/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://www.reddit.com/r/neovim/comments/1hzfsb3/why_did_you_choose_neovim_as_your_text_editor/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <id>t3_1hzfsb3</id>
+    <link href="https://www.reddit.com/r/neovim/comments/1hzfsb3/why_did_you_choose_neovim_as_your_text_editor/"/>
+    <updated>2025-01-12T05:30:34+00:00</updated>
+    <published>2025-01-12T05:30:34+00:00</published>
+    <title>why did you choose neovim as your text editor?</title>
+  </entry>
+</feed>
