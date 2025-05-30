@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="https://www.bluesnews.com">
+<title>Blue&#x27;s News</title>
+<link>https://www.bluesnews.com</link>
+<description>Up to the minute news on PC games, video games, computers, and related technologies.</description>
+<dc:language>en</dc:language>
+<dc:rights>Copyright 2025, Stephen Heaslip. All rights reserved.</dc:rights>
+<dc:publisher>news@bluesnews.com</dc:publisher>
+<dc:creator>root@bluesnews.com</dc:creator>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284943/elden-ring-nightreign-released" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284942/union-of-gnomes-leaves-early-access" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284941/scar-lead-salvation-released" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284940/life-below-announced" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284939/more-game-releases" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284938/demos-and-freebies" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284937/on-sale" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284936/game-crossovers" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284935/evening-patches" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284934/virtual-reality-check" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284933/game-guidance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284932/evening-multiplex" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284931/evening-interviews" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284930/evening-gatherings-and-events" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284929/evening-postmortems-retrospectives" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284928/evening-consolidation" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284927/evening-mobilization" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284926/evening-metaverse" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284925/evening-tech-bits" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284924/ai-yi-yi" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284923/evening-safety-dance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284922/evening-legal-briefs" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284921/into-the-black" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284920/get-tiny-tina_s-wonderlands-and-or-limbo-for-free" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284919/atomfall-wicked-isle-next-week" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284918/crime-boss-rockay-city-hielo-character-pack-released" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284917/welcome-to-planet-e1d0r4d0-released" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284916/more-game-releases" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284915/demos-and-freebies" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284914/playtest-signups" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284913/release-dates" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284912/rumor-mill" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284911/business-and-finance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284910/issues-and-activism" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284909/game-crossovers" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284908/morning-patches" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284907/subscriptions-clouds-and-streams" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284906/morning-multiplex" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284905/morning-consolidation" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284904/morning-mobilization" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284903/morning-metaverse" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284902/morning-tech-bits" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284901/ai-yi-yi" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284900/morning-safety-dance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284899/morning-legal-briefs" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284898/game-reviews" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284897/hardware-reviews" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284896/out-of-the-blue" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284895/black-panther-game-cancelled-developer-closed" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284894/cyberpunk-2-in-preproduction" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284893/project-warlock-ii-leaves-early-access" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284892/trash-goblin-officially-launches" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284891/seeds-of-calamity-early-access" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284890/demos-and-freebies" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284889/release-dates" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284888/quoteworthy" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284887/on-sale" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284886/business-and-finance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284885/game-history-and-preservation" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284884/evening-patches" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284883/virtual-reality-check" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284882/all-access" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284881/evening-multiplex" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284880/evening-gatherings-and-events" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284879/evening-consolidation" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284878/evening-mobilization" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284877/evening-metaverse" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284876/evening-tech-bits" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284875/ai-yi-yi" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284874/evening-safety-dance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284873/etc-etc" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284872/into-the-black" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284871/elden-ring-nightreign-reviews" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284870/to-a-t-released" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284869/icbm-escalation-endless-october-released" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284868/code-zin-esper-arena-early-access" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284867/davy-x-jones-announced" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284866/nba-bounce-announced" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284865/more-game-releases" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284864/demos-and-freebies" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284863/release-dates" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284862/rumor-mill" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284861/quoteworthy" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284860/business-and-finance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284859/engagement-ring" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284858/issues-and-activism" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284857/game-history-and-preservation" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284856/game-crossovers" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284855/morning-patches" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284854/danger-zone" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284853/morning-multiplex" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284852/morning-op-ed" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284851/morning-consolidation" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284850/morning-metaverse" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284849/morning-tech-bits" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284848/ai-yi-yi" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284847/morning-safety-dance" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284846/morning-legal-briefs" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284845/game-reviews" />
+  <rdf:li rdf:resource="https://www.bluesnews.com/s/284844/hardware-reviews" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="https://www.bluesnews.com/images/new/blue_button.gif" />
+<textinput rdf:resource="https://www.bluesnews.com/cgi-bin/blammo.pl" />
+</channel>
+<image rdf:about="https://www.bluesnews.com/images/new/blue_button.gif">
+<title>Blue&#x27;s News!</title>
+<url>https://www.bluesnews.com/images/new/blue_button.gif</url>
+<link>https://www.bluesnews.com</link>
+</image>
+<item rdf:about="https://www.bluesnews.com/s/284943/elden-ring-nightreign-released">
+<title>ELDEN RING NIGHTREIGN Released</title>
+<link>https://www.bluesnews.com/s/284943/elden-ring-nightreign-released</link>
+<description>Though its official release date is tomorrow, the Windows edition of ELDEN RING NIGHTREIGN is now available on Steam as a Standard or Deluxe Edition, giving rise to the new soulslike action/RPG from...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:22Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284942/union-of-gnomes-leaves-early-access">
+<title>Union of Gnomes Leaves Early Access</title>
+<link>https://www.bluesnews.com/s/284942/union-of-gnomes-leaves-early-access</link>
+<description>The Shop Stewards have been busy, because Union of Gnomes is out of Early Access and is now officially available for Windows on Steam with a 35% launch discount. This deckbuilding roguelike does not...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:19Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284941/scar-lead-salvation-released">
+<title>Scar-Lead Salvation Released</title>
+<link>https://www.bluesnews.com/s/284941/scar-lead-salvation-released</link>
+<description>Scar-Lead Salvation is now out for PC and consoles, and the Windows edition of this action/RPG is available on Steam as a Standard or a Deluxe Edition. This checks lots of boxes, as it&#x27;s a roguelike...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:16Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284940/life-below-announced">
+<title>Life Below Announced</title>
+<link>https://www.bluesnews.com/s/284940/life-below-announced</link>
+<description>Kasedo Games announces Life Below, a &#x22;reef-builder&#x22; that&#x27;s a subaquatic variation on the city-building genre. It&#x27;s in development at Norwegian developer Megapop, being penned by award-winning writer...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:13Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284939/more-game-releases">
+<title>More Game Releases</title>
+<link>https://www.bluesnews.com/s/284939/more-game-releases</link>
+<description> Successor on Steam (Windows). &#x22;A rogue-lite strategy adventure, blending real-time &#x26; tactical turn-based gameplay. Build &#x26; equip your team of heroes and conquer procedurally generated regions....</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:10Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284938/demos-and-freebies">
+<title>Demos and Freebies</title>
+<link>https://www.bluesnews.com/s/284938/demos-and-freebies</link>
+<description> Aris Arcanum Demo on Steam (Windows). &#x22;Delve into the corrupted halls of Aris in this free demo of Aris Arcanum, a spellcraft-driven action roguelite. Catch a glimpse of the story&#x2019;s beginning, where...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:07Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284937/on-sale">
+<title>On Sale</title>
+<link>https://www.bluesnews.com/s/284937/on-sale</link>
+<description> Plague Inc. Franchise Sale on Steam. Cerebral Puzzle Showcase 2025 Sale on Steam. Save 25% on Iron Meat on Steam. No-Code No Problem Game Dev Bundle (pay what you want and help charity) - Humble.* *B...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:04Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284936/game-crossovers">
+<title>Game Crossovers</title>
+<link>https://www.bluesnews.com/s/284936/game-crossovers</link>
+<description> COD x Polaris Vehicle Trailer - Call of Duty- Warzone. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:37:01Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284935/evening-patches">
+<title>Evening Patches</title>
+<link>https://www.bluesnews.com/s/284935/evening-patches</link>
+<description>Official patches. Call of Duty: Black Ops 6 Season 04 Patch Notes. Call of Duty: Warzone Patch Season 04 Patch Notes. Gas Station Simulator - Fuelnomenal Update is Here + New DLC Reveal! &#x1F389;. PowerWash...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:58Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284934/virtual-reality-check">
+<title>Virtual Reality Check</title>
+<link>https://www.bluesnews.com/s/284934/virtual-reality-check</link>
+<description> In a victory for Palmer Luckey, Meta and Anduril work on mixed reality headsets for the military - TechCrunch. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:55Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284933/game-guidance">
+<title>Game Guidance</title>
+<link>https://www.bluesnews.com/s/284933/game-guidance</link>
+<description> Elden Ring Nightreign: 7 Essential Tips To Start Out - Kotaku. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:52Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284932/evening-multiplex">
+<title>Evening Multiplex</title>
+<link>https://www.bluesnews.com/s/284932/evening-multiplex</link>
+<description>Official trailers. The Elder Scrolls Online &#x2013; Introducing Subclassing. For Honor- Content of the Week - 29 May. Rainbow Six Siege: Clash to the rescue. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:49Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284931/evening-interviews">
+<title>Evening Interviews</title>
+<link>https://www.bluesnews.com/s/284931/evening-interviews</link>
+<description> Remedy&#x27;s surreal take on co-op with FBC- Firebreak - GamesIndustry.biz. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:46Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284930/evening-gatherings-and-events">
+<title>Evening Gatherings and Events</title>
+<link>https://www.bluesnews.com/s/284930/evening-gatherings-and-events</link>
+<description> Star Wars: The Old Republic - In-game Events for June 2025. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:43Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284929/evening-postmortems-retrospectives">
+<title>Evening Postmortems/Retrospectives</title>
+<link>https://www.bluesnews.com/s/284929/evening-postmortems-retrospectives</link>
+<description> Black Panther Devs Mourn EA&#x27;s &#x22;Stunning&#x22; And -Amazing- Game - GameSpot. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:40Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284928/evening-consolidation">
+<title>Evening Consolidation</title>
+<link>https://www.bluesnews.com/s/284928/evening-consolidation</link>
+<description> Bendy and the Dark Revival - Coming to Physical - PS5 &#x26; Switch. Darkest Dungeon II: Secrets of the Coven Kingdoms Trailer. Free Play Days &#x2013; Call of Duty- Black Ops 6 (MP &#x26; Zombies Only), The...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:37Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284927/evening-mobilization">
+<title>Evening Mobilization</title>
+<link>https://www.bluesnews.com/s/284927/evening-mobilization</link>
+<description> Google removes old &#x2018;Find your phone&#x2019; ring, use Find Hub instead - 9to5Google. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:34Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284926/evening-metaverse">
+<title>Evening Metaverse</title>
+<link>https://www.bluesnews.com/s/284926/evening-metaverse</link>
+<description> Mozilla Firefox 139.0.1, See All New Features, Updates and Fixes. Thanks Frans. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:31Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284925/evening-tech-bits">
+<title>Evening Tech Bits</title>
+<link>https://www.bluesnews.com/s/284925/evening-tech-bits</link>
+<description> The Supercomputer Designed to Accelerate Nobel-Worthy Science - NVIDIA Blog. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:28Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284924/ai-yi-yi">
+<title>AI Yi-Yi!</title>
+<link>https://www.bluesnews.com/s/284924/ai-yi-yi</link>
+<description> Gemini in Google Drive may finally be useful now that it can analyze videos - Ars Technica. Google AI Overviews Says It&#x2019;s Still 2024 - WIRED (may require registration or subscription). </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:25Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284923/evening-safety-dance">
+<title>Evening Safety Dance</title>
+<link>https://www.bluesnews.com/s/284923/evening-safety-dance</link>
+<description> China hacks show they&#x27;re &#x27;preparing for war&#x27;- McMaster &#x2022; The Register. Microsoft May Patch Tuesday fails on some Windows 11 VMs &#x2022; The Register. Your Asus router may be compromised - here&#x27;s how to...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:22Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284922/evening-legal-briefs">
+<title>Evening Legal Briefs</title>
+<link>https://www.bluesnews.com/s/284922/evening-legal-briefs</link>
+<description> Trump bans sales of chip design software to China - Ars Technica. International students sue State Department over Trump&#x2019;s social media surveillance plan - The Verge. Man who stole 1,000 DVDs from...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:19Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284921/into-the-black">
+<title>Into the Black</title>
+<link>https://www.bluesnews.com/s/284921/into-the-black</link>
+<description>Last Link of the Day: Nathan Fielder calls FAA &#x27;dumb&#x27; for rejecting &#x27;The Rehearsal&#x27; findings - NBC News. Obituary: Kool &#x26; the Gang&#x2019;s Michael Sumler Dead at 71 in Car Crash - People.</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T23:36:16Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284920/get-tiny-tina_s-wonderlands-and-or-limbo-for-free">
+<title>Get Tiny Tina&#x27;s Wonderlands and/or Limbo for Free</title>
+<link>https://www.bluesnews.com/s/284920/get-tiny-tina_s-wonderlands-and-or-limbo-for-free</link>
+<description>This week&#x27;s freebies are live on the Epic Games Store, where everyone is now entitled to free copies of Tiny Tina&#x27;s Wonderlands and Limbo for Windows. The latter may already be in your library, as...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T16:03:52Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284919/atomfall-wicked-isle-next-week">
+<title>Atomfall Wicked Isle Next Week</title>
+<link>https://www.bluesnews.com/s/284919/atomfall-wicked-isle-next-week</link>
+<description>Rebellion announces Wicked Isle will come to Atomfall June 3rd, updating the survival game with its first story expansion. This adds a new location to the game along with new characters, enemies,...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:34Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284918/crime-boss-rockay-city-hielo-character-pack-released">
+<title>Crime Boss: Rockay City Hielo Character Pack Released</title>
+<link>https://www.bluesnews.com/s/284918/crime-boss-rockay-city-hielo-character-pack-released</link>
+<description>New Hielo Character Pack DLC is now available adding new content to heist shooter Crime Boss: Rockay City on PC and consoles. The Windows edition is on Epic Games Store and Steam depending on where...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:31Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284917/welcome-to-planet-e1d0r4d0-released">
+<title>Welcome to Planet E1d0r4d0! Released</title>
+<link>https://www.bluesnews.com/s/284917/welcome-to-planet-e1d0r4d0-released</link>
+<description> Steam now welcomes Windows gamers to Welcome to Planet E1d0r4d0!, a side-scrolling management sim with graphics and a 1337 title that both evoke the 1990s. LuluGames and 2P Games offer a 10% launch...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:28Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284916/more-game-releases">
+<title>More Game Releases</title>
+<link>https://www.bluesnews.com/s/284916/more-game-releases</link>
+<description> Backrooms Level X on Steam (Windows). &#x22;Enter the disturbing world of Backrooms Level X, a first-person narrative survival horror game that immerses you in an endless labyrinth of desolate and...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:25Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284915/demos-and-freebies">
+<title>Demos and Freebies</title>
+<link>https://www.bluesnews.com/s/284915/demos-and-freebies</link>
+<description> Artis Impact on Steam (Windows). &#x22;A fun turn-based RPG set in a future world of humans and AI. Play as Akane to explore vibrant locations, battle with simple yet fluid combat, and enjoy side quests...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:22Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284914/playtest-signups">
+<title>Playtest Signups</title>
+<link>https://www.bluesnews.com/s/284914/playtest-signups</link>
+<description> REMATCH - Beta Is Now Live - Steam News. &#x22;Request your key directly on our Steam page with no sign-up required. Gather your squad, test your skills, and pass the ball.&#x22; </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:19Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284913/release-dates">
+<title>Release Dates</title>
+<link>https://www.bluesnews.com/s/284913/release-dates</link>
+<description> The Drifter - Release Date Trailer. July 17th. HardAF, a Fast-Paced Precision Platformer, Launching on Steam June 5. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:16Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284912/rumor-mill">
+<title>Rumor Mill</title>
+<link>https://www.bluesnews.com/s/284912/rumor-mill</link>
+<description> EA Rumored to Be Laying Off Another 400 Developers - Wccftech. Now-cancelled Black Panther game would reportedly have had T&#x2019;challa&#x2019;s son taking on the Skrull - VGC. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:13Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284911/business-and-finance">
+<title>Business and Finance</title>
+<link>https://www.bluesnews.com/s/284911/business-and-finance</link>
+<description> Yes a US court has blocked Trump&#x27;s tariffs but PC hardware isn&#x27;t out of the water just yet - PC Gamer. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:10Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284910/issues-and-activism">
+<title>Issues and Activism</title>
+<link>https://www.bluesnews.com/s/284910/issues-and-activism</link>
+<description> &#x22;Official&#x22; Russian Military game depicting invasion of Ukraine released on Steam as Yunarmy propaganda - Eurogamer.net. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:07Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284909/game-crossovers">
+<title>Game Crossovers</title>
+<link>https://www.bluesnews.com/s/284909/game-crossovers</link>
+<description> Asphalt Legends - Racing Around the World Trailer - Ft. Sonic the Hedgehog. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:04Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284908/morning-patches">
+<title>Morning Patches</title>
+<link>https://www.bluesnews.com/s/284908/morning-patches</link>
+<description>Official patches. ELDEN RING NIGHTREIGN &#x2013; Patch Notes Version 1.01, In advance of its official launch. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:53:01Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284907/subscriptions-clouds-and-streams">
+<title>Subscriptions, Clouds, and Streams</title>
+<link>https://www.bluesnews.com/s/284907/subscriptions-clouds-and-streams</link>
+<description> GeForce NOW Steam Deck App Arrives - NVIDIA Blog. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:58Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284906/morning-multiplex">
+<title>Morning Multiplex</title>
+<link>https://www.bluesnews.com/s/284906/morning-multiplex</link>
+<description>Official trailers. BAPTISTE - Psychological Horror Game Coming to Kickstarter - YouTube. Faaast Penguin - New Season [Among the Stars] Trailer. NO LIFE: Zombie Survivor - New Teaser Trailer. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:55Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284905/morning-consolidation">
+<title>Morning Consolidation</title>
+<link>https://www.bluesnews.com/s/284905/morning-consolidation</link>
+<description>Thanks Console General. College Football 26 Official Reveal Trailer. Crime Scene Cleaner - PS5 Release Trailer. Nintendo Download- Tales of Stars, Swords and Storms. Xbox Delta Ring (2506.250521-0140)...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:52Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284904/morning-mobilization">
+<title>Morning Mobilization</title>
+<link>https://www.bluesnews.com/s/284904/morning-mobilization</link>
+<description> Musk says Tesla testing driverless Model Y cars in Austin, aiming June delivery - Reuters. Samsung&#x27;s Galaxy S26 Ultra Could Get The &#x27;Edge&#x27; Treatment With An Ultra-Thin Design - Wccftech. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:49Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284903/morning-metaverse">
+<title>Morning Metaverse</title>
+<link>https://www.bluesnews.com/s/284903/morning-metaverse</link>
+<description>Thanks Ant. Elon Musk quietly kills encrypted DMs on X and you should be furious - BetaNews. Discord&#x2019;s new currency pays users to interact with ads - The Verge. Thanks Slashdot. Nancy Mace&#x2019;s Former...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:46Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284902/morning-tech-bits">
+<title>Morning Tech Bits</title>
+<link>https://www.bluesnews.com/s/284902/morning-tech-bits</link>
+<description> ASRock Failures Face-to-Face- Motherboards, BIOS, &#x26; Burned 9800X3D CPUs - Gamers Nexus (video). Apple is reportedly going to rename all of its operating systems - The Verge. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:43Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284901/ai-yi-yi">
+<title>AI Yi-Yi!</title>
+<link>https://www.bluesnews.com/s/284901/ai-yi-yi</link>
+<description> Razer Is Bringing Revolutionary AI Game Developer Tools on Amazon Web Services - Razer Newsroom. The New York Times&#x2019; first generative AI deal is with Amazon - The Verge. Why Anthropic&#x2019;s New AI Model...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:40Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284900/morning-safety-dance">
+<title>Morning Safety Dance</title>
+<link>https://www.bluesnews.com/s/284900/morning-safety-dance</link>
+<description> Billions of session cookies for sale sparks security warning &#x2022; The Register. Watch How Smart Devices Spy On Your Home&#x2014;And How To Avoid It - Incognito Mode - WIRED (may require registration or...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:37Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284899/morning-legal-briefs">
+<title>Morning Legal Briefs</title>
+<link>https://www.bluesnews.com/s/284899/morning-legal-briefs</link>
+<description> The US Is Storing Migrant Children&#x2019;s DNA in a Criminal Database - WIRED (may require registration or subscription). </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:34Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284898/game-reviews">
+<title>Game Reviews</title>
+<link>https://www.bluesnews.com/s/284898/game-reviews</link>
+<description> Promise Mascot Agency - Fully Ramblomatic - Second Wind (NSFW video). </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:31Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284897/hardware-reviews">
+<title>Hardware Reviews</title>
+<link>https://www.bluesnews.com/s/284897/hardware-reviews</link>
+<description> SSD: Crucial P510 Gen5 SSD Review - A Budget-Friendly Gen5 SSD - ThePCEnthusiast. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:28Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284896/out-of-the-blue">
+<title>Out of the Blue</title>
+<link>https://www.bluesnews.com/s/284896/out-of-the-blue</link>
+<description>So Devicer and I got out to see Sinners the other day, and it was as good as advertised. It stuck its landing, and had an amazing tracking shot sequence in the middle that really paid off on the...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T15:52:25Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284895/black-panther-game-cancelled-developer-closed">
+<title>Black Panther Game Cancelled; Developer Closed</title>
+<link>https://www.bluesnews.com/s/284895/black-panther-game-cancelled-developer-closed</link>
+<description>Electronic Arts is cancelling its planned Black Panther game and closing down developer Cliffhanger Games, according to IGN. Its report quotes an email to staff from EA Entertainment President Laura...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:47Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284894/cyberpunk-2-in-preproduction">
+<title>Cyberpunk 2 in Preproduction</title>
+<link>https://www.bluesnews.com/s/284894/cyberpunk-2-in-preproduction</link>
+<description>CD PROJEKT&#x27;s Q1 2025 Earnings are online, in one of the more user-friendly versions of this arcane reporting process. It includes a link to the financials in English with currencies translated to...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:44Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284893/project-warlock-ii-leaves-early-access">
+<title>Project Warlock II Leaves Early Access</title>
+<link>https://www.bluesnews.com/s/284893/project-warlock-ii-leaves-early-access</link>
+<description>Having conquered Early Access, Project Warlock II is now officially available for Windows on the Epic Games Store, GOG.com,* the Humble Store,* and Steam with a whopping 50% launch discount. Here&#x27;s...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:41Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284892/trash-goblin-officially-launches">
+<title>Trash Goblin Officially Launches</title>
+<link>https://www.bluesnews.com/s/284892/trash-goblin-officially-launches</link>
+<description>Trash Goblin is now officially available for Windows on Steam following an Early Access run for this cozy merchant game from Spilt Milk Studios. A new trailer shows off how one goblin&#x27;s trash is...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:38Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284891/seeds-of-calamity-early-access">
+<title>Seeds of Calamity Early Access </title>
+<link>https://www.bluesnews.com/s/284891/seeds-of-calamity-early-access</link>
+<description>Seeds of Calamity has sprouted on Steam, and this cozy farming sim from solo developer Laborious Lark Studios is now in Early Access for Windows. The recent Release Date Announcement Trailer takes a...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:35Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284890/demos-and-freebies">
+<title>Demos and Freebies</title>
+<link>https://www.bluesnews.com/s/284890/demos-and-freebies</link>
+<description> BUS: Bro u Survived on Steam (Windows). &#x22;Get ready for a crazy drive across Fang island! Gather your friends for this 1-4 player cooperative looting action game. Save people from the zombie...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:32Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284889/release-dates">
+<title>Release Dates</title>
+<link>https://www.bluesnews.com/s/284889/release-dates</link>
+<description> Second Chances - Release Announcement Date Trailer - indie.io. June 25th. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:29Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284888/quoteworthy">
+<title>Quoteworthy</title>
+<link>https://www.bluesnews.com/s/284888/quoteworthy</link>
+<description> &#x27;The absolute sincere truth is that I don&#x27;t want anyone to pay any more than they should or are comfortable with&#x27;- Randy Pitchford&#x27;s latest post on the Borderlands pricing controversy is a whole...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:26Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284887/on-sale">
+<title>On Sale</title>
+<link>https://www.bluesnews.com/s/284887/on-sale</link>
+<description> Badass Brawlers (pay what you want and help charity) - Humble.* Stomp &#x26; Chomp Bundle (pay what you want and help charity) - Humble.* Learn To Make Games in Godot 4 by GameDev.tv 2025 (pay what you...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:23Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284886/business-and-finance">
+<title>Business and Finance</title>
+<link>https://www.bluesnews.com/s/284886/business-and-finance</link>
+<description> NVIDIA Announces Financial Results for First Quarter Fiscal 2026 - NVIDIA Newsroom. Thanks Neutronbeam. Nvidia beats on Q1 revenue, says it expects an additional $8 billion charge on H20 losses in...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:20Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284885/game-history-and-preservation">
+<title>Game History and Preservation</title>
+<link>https://www.bluesnews.com/s/284885/game-history-and-preservation</link>
+<description> Myst fans just got the greatest gift from video game historians - Polygon. &#x22;One Of The Rarest Video Games In History&#x22; Has Finally Been Preserved - Time Extension. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:17Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284884/evening-patches">
+<title>Evening Patches</title>
+<link>https://www.bluesnews.com/s/284884/evening-patches</link>
+<description>Official patch. The Last Starship Alpha 15 released - Introversion. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:14Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284883/virtual-reality-check">
+<title>Virtual Reality Check</title>
+<link>https://www.bluesnews.com/s/284883/virtual-reality-check</link>
+<description> World War Z VR - Announcement Trailer. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:11Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284882/all-access">
+<title>All Access</title>
+<link>https://www.bluesnews.com/s/284882/all-access</link>
+<description> Rainbow Six Siege X Accessibility Spotlight - Ubisoft. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:08Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284881/evening-multiplex">
+<title>Evening Multiplex</title>
+<link>https://www.bluesnews.com/s/284881/evening-multiplex</link>
+<description>Official trailers. Dune: Awakening Livestream #4 - Beyond the Beta- A Glimpse of Mid-to-Endgame. ELDEN RING NIGHTREIGN - Bring Me to Life Trailer. ELDEN RING NIGHTREIGN - Revenant Character Trailer....</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:05Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284880/evening-gatherings-and-events">
+<title>Evening Gatherings and Events</title>
+<link>https://www.bluesnews.com/s/284880/evening-gatherings-and-events</link>
+<description> New York unveils details for its first annual NYC Video Game Festival - Polygon. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:34:02Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284879/evening-consolidation">
+<title>Evening Consolidation</title>
+<link>https://www.bluesnews.com/s/284879/evening-consolidation</link>
+<description> KINGDOM COME: DELIVERANCE II FREE TRIAL WITH PLAYSTATION PLUS PREMIUM. PlayStation Plus Monthly Games for June- NBA 2K25, Alone in the Dark, Bomb Rush Cyberfunk, Destiny 2- The Final Shape &#x2013;...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:59Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284878/evening-mobilization">
+<title>Evening Mobilization</title>
+<link>https://www.bluesnews.com/s/284878/evening-mobilization</link>
+<description> Microsoft Launches Copilot for Gaming Beta on Mobile Devices - Wccftech. Google says Instagram fixed a battery drain issue on Android - The Verge. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:56Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284877/evening-metaverse">
+<title>Evening Metaverse</title>
+<link>https://www.bluesnews.com/s/284877/evening-metaverse</link>
+<description> The sun is killing off SpaceX&#x27;s Starlink satellites - New Scientist, </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:53Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284876/evening-tech-bits">
+<title>Evening Tech Bits</title>
+<link>https://www.bluesnews.com/s/284876/evening-tech-bits</link>
+<description>Thanks Ant. Court strikes down Trump reciprocal tariffs - CNBC. Panasonic&#x27;s new Let&#x27;s Note laptops could be the final death knell for the humble VGA port - Tom&#x27;s Hardware. Thanks Slashdot. VirtualBox...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:50Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284875/ai-yi-yi">
+<title>AI Yi-Yi!</title>
+<link>https://www.bluesnews.com/s/284875/ai-yi-yi</link>
+<description> NVIDIA and Google Partnership Gains Momentum With the Latest Blackwell and Gemini Announcements - NVIDIA Blog. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:47Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284874/evening-safety-dance">
+<title>Evening Safety Dance</title>
+<link>https://www.bluesnews.com/s/284874/evening-safety-dance</link>
+<description> Thousands of Asus routers are being hit with stealthy, persistent backdoors - Ars Technica. Thanks Broadband Bulletin via Ant. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:44Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284873/etc-etc">
+<title>etc., etc.</title>
+<link>https://www.bluesnews.com/s/284873/etc-etc</link>
+<description> Violent and lewd! Not Grand Theft Auto, Shakespeare&#x2019;s Macbeth - Games - The Guardian&#x26;hellip; </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:41Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284872/into-the-black">
+<title>Into the Black</title>
+<link>https://www.bluesnews.com/s/284872/into-the-black</link>
+<description>Obituary: Peter Kwong Dead- &#x27;Big Trouble In Little China&#x27; &#x26; &#x27;Golden Child&#x27; Actor - Deadline.</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-29T00:33:38Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284871/elden-ring-nightreign-reviews">
+<title>Elden Ring Nightreign Reviews</title>
+<link>https://www.bluesnews.com/s/284871/elden-ring-nightreign-reviews</link>
+<description>With Elden Ring Nightreign set to dawn on Friday, reviews of FromSoftware&#x27;s new soulslike action/RPG are showing up today. Here&#x27;s a roundup: Elden Ring- Nightreign is an epic RPG squeezed into...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:24Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284870/to-a-t-released">
+<title>to a T Released</title>
+<link>https://www.bluesnews.com/s/284870/to-a-t-released</link>
+<description>Annapurna Interactive and uvula offer the launch of to a T, a new adventure game from Katamari Damacy creator Keita Takahashi that eschews a unique title like that for one you can&#x27;t even Google. It&#x27;s...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:21Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284869/icbm-escalation-endless-october-released">
+<title>ICBM: Escalation - Endless October Released</title>
+<link>https://www.bluesnews.com/s/284869/icbm-escalation-endless-october-released</link>
+<description>Endless October is now available on Steam, adding new DLC to ICBM: Escalation, the Cold War real-time strategy game from SoftWarWare and Slitherine. And while the October it introduces is not truly...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:18Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284868/code-zin-esper-arena-early-access">
+<title>Code ZIN: Esper Arena Early Access</title>
+<link>https://www.bluesnews.com/s/284868/code-zin-esper-arena-early-access</link>
+<description>Early Access has begun on Steam for CCode ZIN: Esper Arena, a third-person arena shooter for Windows from Giiku Games. This promises fast action and an anime aesthetic that are both on display in the...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:15Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284867/davy-x-jones-announced">
+<title>DAVY x JONES Announced</title>
+<link>https://www.bluesnews.com/s/284867/davy-x-jones-announced</link>
+<description>PARASIGHT announces DAVY x JONES, a first-person action/adventure game set in a what&#x27;s described as a &#x22;surreal pirates&#x27; underworld. The Official Reveal Trailer begins with a conversation between Davy...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:12Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284866/nba-bounce-announced">
+<title>NBA Bounce Announced</title>
+<link>https://www.bluesnews.com/s/284866/nba-bounce-announced</link>
+<description>Outright Games and the National Basketball Association announce NBA Bounce, a casual basketball action game coming to PC and consoles on September 26th. The Announce Trailer is a cinematic look,...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:09Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284865/more-game-releases">
+<title>More Game Releases</title>
+<link>https://www.bluesnews.com/s/284865/more-game-releases</link>
+<description> Pipistrello and the Cursed Yoyo on Steam (Windows). &#x22;Are you ready for the first Yoyovania?! In this 2D top-down adventure you&#x27;ll explore a sprawling urban landscape, reinterpreting your...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:06Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284864/demos-and-freebies">
+<title>Demos and Freebies</title>
+<link>https://www.bluesnews.com/s/284864/demos-and-freebies</link>
+<description> Aquapark Tycoon on Steam (Windows). &#x22;Build the ultimate waterpark paradise in this cozy simulation game! Design &#x26; customize water slides, pools, and saunas to fulfill your guests&#x27; needs. Combine...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:03Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284863/release-dates">
+<title>Release Dates</title>
+<link>https://www.bluesnews.com/s/284863/release-dates</link>
+<description> Gold Gold Adventure Gold - Early Access Release Date Trailer. June 20th. NEDRA - Release Date Announcement Trailer - indie.io. June 23rd. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:59:00Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284862/rumor-mill">
+<title>Rumor Mill</title>
+<link>https://www.bluesnews.com/s/284862/rumor-mill</link>
+<description> MachineGames Cancels Unannounced Project - TheGamer. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:57Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284861/quoteworthy">
+<title>Quoteworthy</title>
+<link>https://www.bluesnews.com/s/284861/quoteworthy</link>
+<description> MindsEye boss claims game&#x27;s negative reaction ahead of release has been paid for in &#x22;concerted effort&#x22; against studio - Eurogamer.net. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:54Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284860/business-and-finance">
+<title>Business and Finance</title>
+<link>https://www.bluesnews.com/s/284860/business-and-finance</link>
+<description> GameStop Announces Purchase of Bitcoin. Memeception. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:51Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284859/engagement-ring">
+<title>Engagement Ring</title>
+<link>https://www.bluesnews.com/s/284859/engagement-ring</link>
+<description> The Hundred Line - Last Defense Academy -- Accolades Trailer. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:48Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284858/issues-and-activism">
+<title>Issues and Activism</title>
+<link>https://www.bluesnews.com/s/284858/issues-and-activism</link>
+<description> Open letter slams Gamescom Latam&#x27;s treatment of Brazilian developers - GamesIndustry.biz. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:45Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284857/game-history-and-preservation">
+<title>Game History and Preservation</title>
+<link>https://www.bluesnews.com/s/284857/game-history-and-preservation</link>
+<description> Commodore 64 gets true HDMI upgrade for modern TV sets - Boing Boing. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:42Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284856/game-crossovers">
+<title>Game Crossovers</title>
+<link>https://www.bluesnews.com/s/284856/game-crossovers</link>
+<description> Hideo Kojima casually reveals a Death Stranding anime is in the works - Eurogamer.net, </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:39Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284855/morning-patches">
+<title>Morning Patches</title>
+<link>https://www.bluesnews.com/s/284855/morning-patches</link>
+<description> DEATH NOTE Killer Within - Introducing Light Yagami (Shirt) - NEW ROLES UPDATE + Patch Note V1.4.4. IInto the Dead: Our Darkest Days - Early Access Update #1- Curveballs, Zurvivors and Pipe Bombs....</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:36Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284854/danger-zone">
+<title>Danger Zone</title>
+<link>https://www.bluesnews.com/s/284854/danger-zone</link>
+<description> PUBG: BATTLEGROUNDS Weekly Bans Notice (05/19~05/25) - NEWS - PUBG- BATTLEGROUNDS. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:33Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284853/morning-multiplex">
+<title>Morning Multiplex</title>
+<link>https://www.bluesnews.com/s/284853/morning-multiplex</link>
+<description>Official trailers. Call of Duty: Warzone &#x26; Black Ops 6 - Season 04 BlackCell Battle Pass. DEATH NOTE- Killer Within &#x2013; New Role Kira&#x27;s Spokesperson Trailer. Fortnite - Star Destroyer Bombardment -...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:30Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284852/morning-op-ed">
+<title>Morning Op Ed</title>
+<link>https://www.bluesnews.com/s/284852/morning-op-ed</link>
+<description> The Vexing Art of Duchamp, Picasso and FromSoftware - The New York Times (free account required). &#x22;In his book &#x27;Grant Us Eyes: The Art of Paradox in Bloodborne,&#x27; he compares Duchamp&#x2019;s &#x27;Nude&#x27; not to...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:27Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284851/morning-consolidation">
+<title>Morning Consolidation</title>
+<link>https://www.bluesnews.com/s/284851/morning-consolidation</link>
+<description> Starlight Legacy Console Launch Trailer (PlayStation, Switch, Xbox). Orcs Must Die! Deathtrap - PlayStation 5 Announcement. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:24Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284850/morning-metaverse">
+<title>Morning Metaverse</title>
+<link>https://www.bluesnews.com/s/284850/morning-metaverse</link>
+<description> Tor Project Browser version 14.5.3. Thanks Console General and Ant. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:21Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284849/morning-tech-bits">
+<title>Morning Tech Bits</title>
+<link>https://www.bluesnews.com/s/284849/morning-tech-bits</link>
+<description> AMD Radeon RX 9060 XT is up to 31% faster than 7600 XT in early compute benchmarks - Tom&#x27;s Hardware. GPMI: A New 8K HDMI Competitor Emerges From China - Audioholics. This is why your high-end PC...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:18Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284848/ai-yi-yi">
+<title>AI Yi-Yi!</title>
+<link>https://www.bluesnews.com/s/284848/ai-yi-yi</link>
+<description> AI jobs danger: Sleepwalking into a white-collar bloodbath - . Thanks Matthew. Telegram announces partnership with Musk&#x27;s xAI - BBC. Toxiception. Opera&#x2019;s new AI browser promises to write code while...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:15Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284847/morning-safety-dance">
+<title>Morning Safety Dance</title>
+<link>https://www.bluesnews.com/s/284847/morning-safety-dance</link>
+<description>Thanks Ant. CISA loses nearly all top officials as purge continues - Cybersecurity Dive. Thanks Slashdot. MathWorks&#x2019; ransomware disruptions rages on into second week &#x2022; The Register. Thanks Broadband...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:12Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284846/morning-legal-briefs">
+<title>Morning Legal Briefs</title>
+<link>https://www.bluesnews.com/s/284846/morning-legal-briefs</link>
+<description> Texas governor signs online safety law in blow to Apple and Google - BBC. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:09Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284845/game-reviews">
+<title>Game Reviews</title>
+<link>https://www.bluesnews.com/s/284845/game-reviews</link>
+<description> F1 25 - Ray Tracing &#x26; Path Tracing Benchmarks - DSOGaming. RoadCraft review - Rock Paper Shotgun. </description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:06Z</dc:date>
+</item>
+<item rdf:about="https://www.bluesnews.com/s/284844/hardware-reviews">
+<title>Hardware Reviews</title>
+<link>https://www.bluesnews.com/s/284844/hardware-reviews</link>
+<description> CPU/GPU/AIO/SSD Cooler: Endorfy Navis F360 ARGB Liquid CPU Cooler Review - ThinkComputers.org.Graphics Card: NVIDIA GeForce RTX 5060 8 GB Review - TechPowerUp. Monitor/Projector: Alienware AW3425DW...</description>
+<dc:creator>Blue</dc:creator>
+<dc:date>2025-05-28T15:58:03Z</dc:date>
+</item>
+<textinput rdf:about="https://www.bluesnews.com/cgi-bin/blammo.pl">
+<title>Search!</title>
+<description>Search Blue&#x27;s News</description>
+<name>rdfsearch</name>
+<link>https://www.bluesnews.com/cgi-bin/blammo.pl</link>
+</textinput>
+</rdf:RDF>
